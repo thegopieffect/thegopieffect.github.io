@@ -1,6 +1,6 @@
-baseURL = "https:thegopieffect.github.io/"
+baseURL = "https:thegopieffect.netlify.com/"
 languageCode = "en-us"
-title = "My Ramble"
+title = "gopi"
 theme = "dream"
 
 # These are from dream quickstart guide
@@ -9,4 +9,21 @@ googleAnalytics = "..."
 disqusShortname = "thegopieffect"
 enableRobotsTXT = true
 
+# Added to insert social info's
+[params]
+  author = "gopi"
+  description = "my writings"
+  avatar = "/me.jpg"
+  motto = "In My Head."
 
+  email = "thegopieffect@gmail.com"
+  github = "thegopieffect"
+  linkedin = "thegopieffect"
+  stackoverflow = "8404332/gopi"
+
+  siteStartYear = 2019
+  aboutHeader = "About"
+
+  paginate = 4
+
+  favicon = "/favicon.png"
